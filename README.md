@@ -4,7 +4,6 @@ Careerbuilder-Sketch-Template
 ##Installing
 
 	cd /Users/<USERNAME>/Library/Containers/com.bohemiancoding.sketch3/Data/Library/Application Support/com.bohemiancoding.sketch3/Templates/
-	
 	git clone <GIT URL>
   
 ##Open New Hotkey Modification

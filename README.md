@@ -3,6 +3,8 @@ Careerbuilder-Sketch-Template
 
 ##Installing
 
+Insert your CB username into the command and get the git clone url from the repository.
+
 	cd /Users/<USERNAME>/Library/Containers/com.bohemiancoding.sketch3/Data/Library/Application Support/com.bohemiancoding.sketch3/Templates/ .
 	git clone <GIT URL>
   

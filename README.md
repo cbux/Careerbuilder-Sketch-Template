@@ -1,2 +1,0 @@
-Careerbuilder-Sketch-Template
-=============================
